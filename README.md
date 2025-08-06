@@ -44,8 +44,7 @@ Amazon Security Team
 ## 🛠 Tools Used
 
 - ✅ [Google Admin Toolbox – Message Header Analyzer](https://toolbox.googleapps.com/apps/messageheader/)
-- ✅ [VirusTotal](https://www.virustotal.com) (for checking links)
-- ✅ Manual inspection (hover technique, language analysis)
+
 
 ---
 
@@ -92,8 +91,3 @@ Phishing-Email-Analysis-Task2/
 
 ---
 
-## 👨‍💻 Author
-
-- **Intern:** Your Name  
-- **Date:** August 2025  
-- **Task Link:** [Submission Form](https://forms.gle/8Gm83s53KbyXs3Ne9)
