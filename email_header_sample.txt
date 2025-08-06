@@ -1,0 +1,15 @@
+Return-Path: <support@amz-check.com>
+Received: from unknown (HELO smtp.randommailserver.com) (192.168.1.22)
+    by mail.example.com with SMTP; Wed, 06 Aug 2025 14:35:21 +0000
+Received-SPF: Fail (mail.example.com: domain of amz-check.com does not designate 192.168.1.22 as permitted sender)
+Authentication-Results: mail.example.com;
+    spf=fail (sender IP is 192.168.1.22) smtp.mailfrom=support@amz-check.com;
+    dkim=none header.d=amz-check.com;
+    dmarc=fail action=quarantine header.from=amz-check.com
+From: Amazon Support <support@amz-check.com>
+Subject: Important: Your Account Has Been Suspended
+To: victim@example.com
+Date: Wed, 06 Aug 2025 14:35:20 +0000
+Message-ID: <fake-id@amz-check.com>
+MIME-Version: 1.0
+Content-Type: text/html; charset=UTF-8

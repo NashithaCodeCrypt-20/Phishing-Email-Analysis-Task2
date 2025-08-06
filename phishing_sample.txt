@@ -1,0 +1,15 @@
+From: Amazon Support <support@amz-check.com>
+Subject: Important: Your Account Has Been Suspended
+
+Hello,
+
+We have noticed unusual activity in your Amazon account. For your protection, we have temporarily suspended your account.
+
+Please verify your identity by clicking the link below:
+
+https://amazon-login-secure-check.com
+
+Failure to respond within 24 hours will result in permanent account suspension.
+
+Regards,
+Amazon Security Team
